@@ -49,6 +49,7 @@ class Number{
         return factorial;
     }
     double getSqrt(){
+        //use binary search on numbers between 1 and this.n to get the square root of the double variable
         // Max and min are used to take into account numbers less than 1
         double lo = 1 < this.n?1:this.n, hi = 1>this.n?1:this.n, mid = -1;
 
