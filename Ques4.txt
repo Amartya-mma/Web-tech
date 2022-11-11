@@ -1,0 +1,7 @@
+Ques 4:
+The code snippet compiles without any error
+output: 24
+because a single copy of a is shared by all objects of the class and each instanciation increments a (as per the constructor expression)
+and finally the value of a is 24 which is printed
+
+

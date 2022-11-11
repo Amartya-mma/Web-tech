@@ -1,0 +1,5 @@
+Ques 5
+Ques 5:
+The code snippet compiles without any error
+output: 10
+because a final static variable can be initialized in the static block

@@ -1,0 +1,2 @@
+Ques 1
+Multiple inheritance is not supported by java so the class Bluewhale cannot inherit from both Mammals and Marine Animals classes 
